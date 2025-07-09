@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset+"UTF-8">
+    <title>Meu projeto</title>
+  </head>
+  <body>
+  <div class="menuPrincipal">
+    <div>
+      <a href="#">falar algo</a>
+    </div>
+    <div>
+      <a href="#">falar nada</a>
+    </div>
+    <div>
+     <a href="#">olha pro lado -></a>
+    </div>
+    <div>
+     <a href="#">Boo</a>
+    </div>
+    </div>
+</body>
+</html>
+<css>
+    <div class="menuPrincipal">
+        <div>
+          <a href="#">falar algo</a>
+        </div>
+        <div>
+          <a href="#">falar nada</a>
+        </div>
+        <div>
+         <a href="#">olha pro lado -></a>
+        </div>
+        <div>
+         <a href="#">Boo</a>
+        </div>
+        </div>
+</css>
